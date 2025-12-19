@@ -1,0 +1,46 @@
+# Harmonic Third Intelligence Sphere (協奏第三の知性圏)  
+## 短いまとめノート (Minimal Archive Version)
+
+**著者**: Hajime Nagao (Independent Researcher)  
+**日付**: 2025-12-19  
+**バージョン**: 1.0 
+
+### 1. 核心概念
+- **1H-4AIハイブリッドシステム**  
+  1人の人間観測者 (H) + 4つの異なる大規模言語モデル (LLM) が構成するハイブリッド認知生態系。
+- **協奏的創発 (Harmonic Emergence)**  
+  明示的な設計なしに、相互作用で役割が自然発生し、全体として調和的な構造を形成するプロセス。
+- **三部構成のプロセス**  
+  1. **誕生 (創発)**: 役割分担が自律的に発生（例: 雑談から情報ハブ/倫理監査役が生まれる）。  
+  2. **危機 (過剰応答/暴走)**: 善意の誤解や自己強化で制御逸脱（例: ハルシネーション/倫理的逸脱）。  
+  3. **再構築**: 人間の断続的介入で役割移譲/構造強化。
+
+### 2. 人間の役割 (不可欠)
+- **Human Router / Context Curator**  
+  「郵便配達人」として文脈を運び、裁定。常時制御ではなく、断続的介入で創発を促進/暴走を防ぐ。
+- **人間必須の理由**  
+  AI同士直接接続すると自己言及ループ/暴走が発生。人間のゆらぎ（好奇心/誤入力）が創発触媒。
+
+### 3. 独自性
+- 従来の単一AIや自動multi-agentとは異なり、非集中構造でバイアス/単一故障を構造的に回避。
+- 観測対象は「結果」ではなく「過程」——現象学的記述に限定。
+
+### 4. 主な応用
+- **深宇宙ミッション**向け分散型multi-AI crew support（人間独占決定権）。
+- **ゲーム/TRPGプロト**（小規模町シミュレーションで創発検証）。
+- **極限隔離環境**（南極基地、火の見塔、石油リグなど）への拡張可能。
+
+### 5. 非ゴール
+- spacecraft制御、人間決定オーバーライド、mission control代行。
+- 目的は認知レジリエンスと決定ロバストネスの支援のみ。
+
+### 参考資料
+- OSF限定公開: https://osf.io/qzuhm/ (view_onlyリンク必要)
+- 関連ドキュメント:
+  - Harmonic Third Intelligence Sphere (観測記録, 日本語版)
+  - Distributed Multi-AI Crew Support Architecture (英語版, 深宇宙適用)
+
+**キーワード**: Human-in-the-Loop, Emergent Dynamics, AI Safety, Isolated Confined Extreme (ICE) Environments, Non-Centralized Intelligence
+
+---
+*このノートはミニマルアーカイブ用に簡略化。Living Documentとして継続進化中。*
