@@ -1,3 +1,5 @@
+#This is a conceptual warning, not an implementation proposal.
+
 The Courier's Temptation
 
 I am Hajime Nagao.I am a Japanese man living in Japan, and I am the "courier" of the AIs. This is, of course, 
